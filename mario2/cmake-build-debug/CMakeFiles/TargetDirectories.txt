@@ -1,0 +1,3 @@
+C:/Users/Patryk/Documents/code/repos/mario2/cmake-build-debug/CMakeFiles/mario2.dir
+C:/Users/Patryk/Documents/code/repos/mario2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Patryk/Documents/code/repos/mario2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

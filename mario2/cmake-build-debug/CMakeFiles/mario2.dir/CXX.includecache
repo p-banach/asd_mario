@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Patryk/Documents/code/repos/mario2/main.cpp
+iostream
+-
+string
+-
+climits
+-
+queue
+-
+tuple
+-
+set
+-
+map
+-
+

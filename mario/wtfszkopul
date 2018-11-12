@@ -1,0 +1,47 @@
+ZLE WEJSCIA
+
+
+    1a wiersz 1: wczytano '..<U*.>U..', a oczekiwano '10'
+    1b wiersz 1: wczytano '.U.#>U.U<....*..*<..', a oczekiwano '13'
+    2 wiersz 1: wczytano '.***..............<<..', a oczekiwano '5'
+    3a wiersz 1: wczytano '.', a oczekiwano '0'
+    3b wiersz 1: wczytano '.*<#############.', a oczekiwano '7'
+    4a wiersz 1: wczytano '.....*<UUUUUUUUUUUUUUUUUUUUUUUUUUUUUU.', a oczekiwano '16'
+    4b wiersz 1: wczytano '...........*<UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU...
+    4c wiersz 1: wczytano '........................................................................................*<UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU...
+    5 wiersz 1: wczytano '.*<#.#....', a oczekiwano '4'
+    6 wiersz 1: wczytano '..U*<###.', a oczekiwano '-1'
+    7 wiersz 1: wczytano '.***************************************************************************************************************************************************************************************************************************************...
+    8 wiersz 1: wczytano '..>......<.....*<UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU.', a oczekiwano '34'
+    9a wiersz 1: wczytano '.#..####.#.##################..#.###..#.#..####..#.#...########...#####..#.#.#.###.#############.##..#.##.##.#.########..#.#....#####.#..#..##.##.#.###.#.#######.#.###..###.##..######.#..##.#...##.#.######.##.##########.#.###.##...#...
+    9b wiersz 1: wczytano '..******.****...*.*.****....**..*.**.......****.*...**.**....*.*****.******.*****...*******.*.****..**.**.***..*.**....**...*****.**.*****.*.**.*.********.*.***....***.*.**...*.**.**.****....**....***...**..**.*.*.*.**.*.**.********...
+    9e wiersz 1: wczytano '....<<..<<..<<..<..<.......<<.....<<...<<..<<....<<..<..<<...<..<..<<...<<..<<..<<...<<...<..<<..<..<<...<<.....<<....<..<<....<<..<....<...<...<..<..<..<...<..<....<<..<....<..<<........<<..<..<..<<.....<<...<....<<...<<....<...<<....
+    10a wiersz 1: wczytano '..*U*U*>..**>..>..U.*........*....*U.....<.*.U.......U..<......U***..U.U.UU.*.*UU....UU>.*U.*..UU..>.U..U........U*.....*...UU.....*..U.>....U><U..U*.U....*..*U....U..........U..*..U.*>.......>.....#<<..>*..*U.U.U......*....U..UU.**...
+    10b wiersz 1: wczytano '.>.UU*..*...U.>.#U*....U.#.UUU>..*..*.....*#.U.....U.UU.>.......**U.*U..>....<U.U*.UU**U...U.U..**.*.*U..**.**.U<*>>#*.U*#**.*U>U.*.....#U...U.>U.U..>U.U..U*.>...U.....U.*U>*U.U>.U>UU......UU.....U..*..*..U.U..U...U.U#*.<.>.U.*U..UU...
+    11a wiersz 1: wczytano '.U*<######.U*<##############################################################.U*<########################################################################################################################################################...
+    11b wiersz 1: wczytano '.U.U.U.U.U.U.U.U.U.U.U.U.U.U.U.U.U.U.U.U.*<##.U.U.U.U.U.U.U.U.U.U.U.U.U.U.U.U.U.U.U.U.*<################################################################################################################################################...
+    12a wiersz 1: wczytano '.***#####.##.<#.<##<#####..', a oczekiwano '8'
+    12b wiersz 1: wczytano '.***************########################################################################################################################################################################################################################...
+
+
+    1a wiersz 1: wczytano '10-2-5-', a oczekiwano '10'
+    1b wiersz 1: wczytano '20-2-5-', a oczekiwano '13'
+    2 wiersz 1: wczytano '22-5-1-', a oczekiwano '5'
+    3a wiersz 1: wczytano '1-1-1-', a oczekiwano '0'
+    3b wiersz 1: wczytano '17-2-2-', a oczekiwano '7'
+    4a wiersz 1: wczytano '38-4-100-', a oczekiwano '16'
+    4b wiersz 1: wczytano '524-10-100-', a oczekiwano '64'
+    4c wiersz 1: wczytano '4185-87-40-', a oczekiwano '531'
+    5 wiersz 1: wczytano '10-2-1-', a oczekiwano '4'
+    6 wiersz 1: wczytano '9-3-100-', a oczekiwano '-1'
+    7 wiersz 1: wczytano '1000-2-1-', a oczekiwano '163'
+    8 wiersz 1: wczytano '80-8-10-', a oczekiwano '34'
+    9a wiersz 1: wczytano '100000-2-2-', a oczekiwano '-1'
+    9b wiersz 1: wczytano '100000-2-2-', a oczekiwano '20'
+    9e wiersz 1: wczytano '100000-2-2-', a oczekiwano '-1'
+    10a wiersz 1: wczytano '100000-10-50-', a oczekiwano '54'
+    10b wiersz 1: wczytano '100000-20-10-', a oczekiwano '75'
+    11a wiersz 1: wczytano '17489-3-17-', a oczekiwano '242'
+    11b wiersz 1: wczytano '37289-42-17-', a oczekiwano '3467'
+    12a wiersz 1: wczytano '27-4-93-', a oczekiwano '8'
+    12b wiersz 1: wczytano '94233-10-93-', a oczekiwano '4112'
